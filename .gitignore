@@ -33,6 +33,4 @@ build/
 .vscode/
 /bin/
 
-Jenkinsfile
-k8sdeployment.yaml
-Dockerfile
+
