@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bankapp-eta-container
-        image: mrnumbrithdocker/banktest:${BUILD_NUMBER}
+        image: mrnumbrithdocker/banktest:latest
         ports:
         - containerPort: 8081
 ---
